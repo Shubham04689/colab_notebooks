@@ -65,7 +65,7 @@ Welcome to my machine learning and natural language processing (NLP) projects re
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shubham04689/machine-learning-nlp-projects.git
+   git clone https://github.com/Shubham04689/colab_notebooks.git
    ```
 
 2. Open any `.ipynb` file in Google Colab or Jupyter Notebook.
